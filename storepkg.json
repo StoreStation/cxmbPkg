@@ -1,0 +1,15 @@
+{
+    "pkgver": 1,
+    "name": "CXMB",
+    "author": "Poison",
+    "description": "A Custom theme plugin for the PSP devices",
+    "link": "https://github.com/PSP-Archive/CXMB",
+    "version": "1.2",
+    "download": {
+        "remote": "github:StoreStation/cxmbPkg/releases/latest/download/cxmb.zip",
+        "compressed": true,
+        "targets": [
+            { "cxmb.prx": "ms0:/SEPLUGINS/cxmb.prx" }
+        ]
+    }
+}
