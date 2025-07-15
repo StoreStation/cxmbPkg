@@ -3,6 +3,7 @@
     "name": "CXMB",
     "author": "Poison",
     "description": "A Custom theme plugin for the PSP devices",
+    "image": "githubusercontent:StoreStation/cxmbPkg/refs/heads/main/preview.jpg",
     "link": "https://github.com/PSP-Archive/CXMB",
     "version": "1.2",
     "download": {
