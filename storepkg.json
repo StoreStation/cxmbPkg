@@ -1,5 +1,6 @@
 {
     "pkgver": 1,
+    "type": "plugin",
     "name": "CXMB",
     "author": "Poison",
     "description": "A Custom theme plugin for the PSP devices",
