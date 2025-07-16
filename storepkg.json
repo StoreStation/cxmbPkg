@@ -12,6 +12,9 @@
         "compressed": true,
         "targets": [
             { "cxmb.prx": "ms0:/SEPLUGINS/cxmb.prx" }
+        ],
+        "register": [
+            "vsh, ms0:/SEPLUGINS/cxmb.prx, on"
         ]
     }
 }
